@@ -1,0 +1,46 @@
+{
+  "Nəsimi": {
+    "lat": 40.3777,
+    "lon": 49.852,
+    "məktəb": 96,
+    "xəstəxana": 92,
+    "aptek": 90,
+    "kafe": 88,
+    "bank/ATM": 100,
+    "metro": 98,
+    "ümumi": 94
+  },
+  "Səbail": {
+    "lat": 40.3453,
+    "lon": 49.8279,
+    "məktəb": 50,
+    "xəstəxana": 30,
+    "aptek": 44,
+    "kafe": 96,
+    "bank/ATM": 100,
+    "metro": 97,
+    "ümumi": 70
+  },
+  "Xətai": {
+    "lat": 40.3869,
+    "lon": 49.901,
+    "məktəb": 100,
+    "xəstəxana": 47,
+    "aptek": 48,
+    "kafe": 51,
+    "bank/ATM": 80,
+    "metro": 99,
+    "ümumi": 71
+  },
+  "Binəqədi": {
+    "lat": 40.458,
+    "lon": 49.846,
+    "məktəb": 100,
+    "xəstəxana": 77,
+    "aptek": 100,
+    "kafe": 100,
+    "bank/ATM": 46,
+    "metro": 93,
+    "ümumi": 86
+  }
+}
